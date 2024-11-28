@@ -1,8 +1,8 @@
-# BLATT-TIP
+# BLSAM-TIP
 
-BLATT-TIP: a two-stage approach for accurate identification of tyrosinase inhibitory peptides based on BiLSTM and self-attention 
+BLSAM-TIP: a two-stage approach for accurate identification of tyrosinase inhibitory peptides based on BiLSTM and self-attention 
 
-###BLATT-TIP: uses the following dependencies:
+###BLSAM-TIP: uses the following dependencies:
 
 * Python 3.10.12
 
